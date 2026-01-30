@@ -1,0 +1,9 @@
+Diagnostic Info:
+
+Current structure:
+- layout.tsx has: <main className="relative z-10">
+- AmbientBackground is z-0 with pointer-events-none
+- Header is z-[100]
+- Live page Container has relative z-10
+
+This should work but doesn't. Need to test simpler version.
